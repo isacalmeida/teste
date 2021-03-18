@@ -1,0 +1,3 @@
+[submodule "teste-novo"]
+	path = teste-novo
+	url = https://github.com/isacalmeida/teste-novo.git
